@@ -1,0 +1,18 @@
+{
+    "name": "pavelklimenko/otus_test_package",
+    "description": "OTUS TEST HW PACKAGE",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Pavelklimenko\\OtusTestPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pavel Klimenko"
+        }
+    ],
+    "require": {
+        "php": "^8.0"
+    }
+}
