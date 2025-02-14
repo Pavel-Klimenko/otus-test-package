@@ -12,7 +12,7 @@
             "name": "Pavel Klimenko"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "php": "^8.0"
     }
