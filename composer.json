@@ -1,5 +1,5 @@
 {
-    "name": "pavelklimenko/otus_test_package",
+    "name": "pavelklimenko/otus-test-package",
     "description": "OTUS TEST HW PACKAGE",
     "type": "library",
     "autoload": {
