@@ -12,6 +12,12 @@
             "name": "Pavel Klimenko"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Pavel-Klimenko/otus_test_hw_package.git"
+        }
+    ],
     "require": {
         "php": "^8.0"
     }
