@@ -9,10 +9,10 @@
     },
     "authors": [
         {
-            "name": "Pavel Klimenko"
+            "name": "Pavel Klimenko",
+            "email": "pavel.klimenko.1989@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": "^8.0"
     }
