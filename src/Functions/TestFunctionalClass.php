@@ -8,4 +8,15 @@ class TestFunctionalClass
     {
         return $a + $b;
     }
+
+    public function selectOperation($operation):string
+     {
+        $operation = match($operation)
+        {
+            'sum' => "сложение",
+            'dist' => "вычитание",
+            default => "действие по умолчанию",
+        };
+        return $operation;
+    }
 }
